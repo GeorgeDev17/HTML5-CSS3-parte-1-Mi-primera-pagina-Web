@@ -1,4 +1,4 @@
-# Programa formación Oracle Alura Latam
+# Programa de formación Oracle Alura Latam
 El contenido en este repositorio esta basado en lo aprendido durante el cursado.
 ### Lenguajes usados en este repositorio:
 
