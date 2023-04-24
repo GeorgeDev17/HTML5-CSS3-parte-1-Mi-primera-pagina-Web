@@ -27,7 +27,7 @@ Temario del repositorio 👨‍💻
 - Cómo pasar las informaciones del encoding de nuestra página para el navegador, a través de la etiqueta `<meta>` y de la propiedad `charset`.
 - Cómo definir el título de una página, a través de la etiqueta `<title>`.
 - Cómo separar las informaciones que están siendo pasadas para el navegador, utilizando la etiqueta `<head>`.
-- Cómo separar el contenido de la página, utilizando la etiqueta <body>.
+- Cómo separar el contenido de la página, utilizando la etiqueta `<body>`.
 
 
 3. Trabajando con CSS:
